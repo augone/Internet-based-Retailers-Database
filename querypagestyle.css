@@ -1,0 +1,29 @@
+body{
+	padding:25px;
+	background-image:url(imagefor5/osu3.jpg);
+	background-size:100%;
+	background-attachment:fixed;
+	
+}
+#theme
+{
+	font-size:30px;
+	color:#6C0B13;
+	text-align:center;
+}
+#query{
+	border-style:ridge;
+	border-color:black;
+	border-width:10px;
+	font-size:20px;
+	color:#904D90;
+	/* text-align:center; */
+	
+}
+h5
+{
+	border-bottom:5px;
+	border-bottom-color:black;
+	border-bottom-style:ridge;
+
+}

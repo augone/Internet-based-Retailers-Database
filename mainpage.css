@@ -1,0 +1,53 @@
+ul{
+	background-color:#8B8D80;
+	/* font-weight:500;
+	font-family:Tahoma;
+	font-style:normal;
+	font-size:24px; */ 
+	padding:50px;
+	margin:30px;
+	border-style:ridge;
+	border-color:orange;
+	border-width:10px;
+}
+#main{
+	background-color:#8E0404;/*rgb(255,255,255)*/
+	color:gray;
+	/* font-weight:500;
+	font-family:Tahoma;
+	font-style:normal;
+	font-size:24px; */ 
+	font-size:25px;
+	padding:35px;
+	margin:30px;
+	background-image:url(imagefor5/osu.jpg);
+	border-style:ridge;
+	background-repeat:no-repeat;
+	background-position:center;
+	border-color:orange;
+	border-width:10px;
+}
+body
+{
+	background-image:url(imagefor5/osu2.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100%;
+}
+
+#result{
+	background-color:#B8B4A6;
+	/* font-weight:500;
+	font-family:Tahoma;
+	font-style:normal;
+	font-size:24px; */ 
+	padding:50px;
+	margin:30px;
+	border-style:ridge;
+	border-color:Black;
+	border-width:10px;
+}
+/* 
+head{
+	margin:30px;
+} */
